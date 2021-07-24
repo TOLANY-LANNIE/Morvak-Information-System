@@ -8,5 +8,6 @@ The application allows the following functions:
 * Student are able to see their marks for different modules
 
 Below are some of the screenshots of the application:
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/login.png)
 
 
