@@ -9,5 +9,4 @@ The application allows the following functions:
 
 Below are some of the screenshots of the application:
 
-Instructions to run the application:
-1. 
+
