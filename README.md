@@ -8,6 +8,15 @@ The application allows the following functions:
 * Student are able to see their marks for different modules
 
 Below are some of the screenshots of the application:
+
 ![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/login.png)
+
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/adim_1.png)
+
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/adim_2.png)
+
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/adim_3.png)
+
+
 
 
