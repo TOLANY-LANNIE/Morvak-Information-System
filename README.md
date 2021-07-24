@@ -13,9 +13,9 @@ Below are some of the screenshots of the application:
 
 ![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/admin_1.png)
 
-![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/adim_2.png)
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/admin_2.png)
 
-![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/adim_3.png)
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/admin_3.png)
 
 
 
