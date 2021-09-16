@@ -21,6 +21,13 @@ Below are some of the screenshots of the application:
 4. Panel for adding student information including guardain information and contacts to the system.
 <p align="left"><img src="https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_3.png"/>
 
+### Tools & Technology Used for the project 🛠
+ <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/>
+ </p>
 
+
+  
 
 
