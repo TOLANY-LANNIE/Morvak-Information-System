@@ -10,8 +10,8 @@ The application allows the following functions:
 Below are some of the screenshots of the application:
 
 <p align="left">1. Login screen that opens different user panels based on the user's role id <img src="https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_0.png"/>
-<p align="left">2. Home screen after login <img src="https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_1.png"/>
 
+<p align="left">2. Home screen after login <img src="https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_1.png"/>
 
 <p align="left">3. Panel for creating new user account to gain access to the system <img src="https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_2.png"/>
 
