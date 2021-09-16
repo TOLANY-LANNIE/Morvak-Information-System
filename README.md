@@ -8,13 +8,16 @@ The application allows the following functions:
 * Student are able to see their marks for different modules
 
 Below are some of the screenshots of the application:
+*Login screen that opens different user panels based on the user's role id *
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_0.png) 
 
-![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_0.png) *Login screen that opens different user panels based on the user's role id *
+*Home screen after login *
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_1.png)
 
-![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_1.png)*Home screen after login *
+Panel for creating new user account to gain access to the system *
+![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_2.png)*
 
-![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_2.png)*Panel for creating new user account to gain access to the system *
-
+*Panel for adding student information including guardain information and contacts to the system *
 ![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_3.png)*Panel for adding student information including guardain information and contacts to the system *
 
 
