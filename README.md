@@ -8,7 +8,9 @@ The application allows the following functions:
 * Student are able to see their marks for different modules
 
 Below are some of the screenshots of the application:
-<p align=left>
+
+<p align="left"><img src="https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_0.png"/>
+<p align="left">
 Login screen that opens different user panels based on the user's role id 
 ![image](https://github.com/TOLANY-LANNIE/Morvak-Information-System/blob/master/screenshots/image_edit_0.png)
 </p>
