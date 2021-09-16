@@ -30,6 +30,7 @@ Below are some of the screenshots of the application:
 
 
 
-  
+ ### Requirements
+ * MySQl
 
 
