@@ -31,6 +31,6 @@ Below are some of the screenshots of the application:
 
 
  ### Requirements
- * MySQl
+ * PHPMyAdmin to store the Databases
 
 
