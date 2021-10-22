@@ -32,5 +32,12 @@ Below are some of the screenshots of the application:
 
  ### Requirements
  * PHPMyAdmin to store the Databases
+ 
+  ### Lessons Learnt
+  - Using the swing library
+  - Connect MySQL to a java application
+  - Make queries to mysql db and displaying the results of the query
+  - Using KGradient
+ 
 
 
