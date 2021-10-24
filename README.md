@@ -35,7 +35,7 @@ Below are some of the screenshots of the application:
 
 
  ### Requirements
- * PHPMyAdmin to store the Databases
+ * PHPMyAdmin to store the Databases and java installed on your computer
  
   ### Lessons Learnt
   - Using the swing library
