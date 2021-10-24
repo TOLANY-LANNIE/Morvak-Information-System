@@ -7,12 +7,16 @@
  </p>
 
 ### Overview
-A system information system dedicated to St Columba's High School in Zimbabwe as a solution to their paper based system.This was the second developed version of the final product. The application uses Swing panel with Gradient for the UI.Currently it is not functioning as expected as I could not find a place to host the MySQL database.
-However, one can just browse through and look at the code. And it will probably be ready to run soon. With imporvements
-The application allows the following functions:
-* Adding new student and teachers into the system
-* Teachers can add student marks
+A system information system dedicated to St Columba's High School in Zimbabwe as a solution to their paper based system.This was the second developed version of the final product. The application uses Swing panel with Gradient for the UI.Currently it is not functioning as expected as I could not find a place to host the MySQL database.However, one can just browse through and look at the code. And it will probably be ready to run soon. With improvements
+
+### Features
+
+* Teachers can add student marks and perform all CRUD functions.
 * Student are able to see their marks for different modules
+* Admin able to grand access to the system
+* Different panels for each user group (Admin, student, teachers)
+* Password encryption
+* Student and teacher profiles with all necessary information
 
 Below are some of the screenshots of the application:
 
