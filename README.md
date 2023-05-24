@@ -35,13 +35,13 @@ Below are some of the screenshots of the application:
 
 
  ### Requirements
- * PHPMyAdmin to store the Databases and java installed on your computer
+ * PHPMyAdmin and Java installed on your computer
  
   ### Lessons Learnt
-  - Using the swing library
-  - Connect MySQL to a java application
-  - Make queries to mysql db and displaying the results of the query
-  - Using KGradient
+  - Using the Swing library for the UI
+  - Connect MySQL to a Java application
+  - Sql queries to mysql db and displaying the results of the query
+  - Using KGradient library for the UI
  
 
 
